@@ -1,0 +1,1 @@
+This package addresses inverse optimization (IO) problems for linear programs (LPs), focusing on objective-function coefficient recovery. It supports two models—Strict (exact optimality) and Robust (noisy data)—and includes sample generation utilities. Gurobi is used as the LP solver.
