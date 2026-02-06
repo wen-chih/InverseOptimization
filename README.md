@@ -1,4 +1,4 @@
-# Inverse Optimization for Linear Programs
+## Inverse Optimization for Linear Programs
 
 This package solves inverse optimization (IO) problems for linear programs (LPs), with a focus on recovering objective-function coefficients.
 
